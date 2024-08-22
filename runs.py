@@ -212,7 +212,7 @@ def BayesianRejectionRuns(base):
     all_accuracy_lists = []
     all_rejection_rate_lists = []
 
-    X_train, y_train, X_test, y_test = datasetSplitTrainTest(X, y, 80)
+
 
     for Wr in Wr_values:
         accuracyList = []
@@ -222,7 +222,7 @@ def BayesianRejectionRuns(base):
             arquivo.write(f"Execução Iterações Bayesian Rejection {convertDocName[base]} Wr={Wr}.\n\n")
             for i in range(20):
                 print(f'\nIteração {i}\n')
-
+                X_train, y_train, X_test, y_test = datasetSplitTrainTest(X, y, 80)
                 plotDataPoints(np.array(X_train), np.array(y_train), np.array(X_test), np.array(y_test),
                                convertDocName[base], i, 'Train-Test', originalLabels)
                 model = BayesianGaussianRejectionQuant(Wr=Wr)
