@@ -2,124 +2,124 @@ Execução Iterações Bayesian Rejection Artificial Wr=0.36.
 
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[10  0]
+ [ 0 10]] 
 
 Iteração 0: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+ACC: 0.95
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 7  1]
+ [ 0 12]] 
 
-Iteração 1: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
+Iteração 1: Acurácia = 0.9500, Taxa de Rejeição = 0.1000
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 9  0]
+ [ 0 11]] 
 
 Iteração 2: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+ACC: 0.95
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 7  1]
+ [ 0 12]] 
 
-Iteração 3: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+Iteração 3: Acurácia = 0.9500, Taxa de Rejeição = 0.0500
+ACC: 0.95
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[10  1]
+ [ 0  9]] 
 
-Iteração 4: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
+Iteração 4: Acurácia = 0.9500, Taxa de Rejeição = 0.0500
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[11  0]
+ [ 0  9]] 
 
 Iteração 5: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+ACC: 0.95
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[10  1]
+ [ 0  9]] 
 
-Iteração 6: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+Iteração 6: Acurácia = 0.9500, Taxa de Rejeição = 0.0500
+ACC: 0.9
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[9 2]
+ [0 9]] 
 
-Iteração 7: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
+Iteração 7: Acurácia = 0.9000, Taxa de Rejeição = 0.1000
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[10  0]
+ [ 0 10]] 
 
 Iteração 8: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 9  0]
+ [ 0 11]] 
 
 Iteração 9: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[11  0]
+ [ 0  9]] 
 
 Iteração 10: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+ACC: 0.95
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[11  1]
+ [ 0  8]] 
 
-Iteração 11: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
+Iteração 11: Acurácia = 0.9500, Taxa de Rejeição = 0.0500
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[10  0]
+ [ 0 10]] 
 
 Iteração 12: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+ACC: 0.9
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 7  2]
+ [ 0 11]] 
 
-Iteração 13: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
+Iteração 13: Acurácia = 0.9000, Taxa de Rejeição = 0.1500
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 9  0]
+ [ 0 11]] 
 
 Iteração 14: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[15  0]
+ [ 0  5]] 
 
 Iteração 15: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+ACC: 0.9
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 6  2]
+ [ 0 12]] 
 
-Iteração 16: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
+Iteração 16: Acurácia = 0.9000, Taxa de Rejeição = 0.1000
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[11  0]
+ [ 0  9]] 
 
 Iteração 17: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
 ACC: 1.0
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[11  0]
+ [ 0  9]] 
 
 Iteração 18: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
-ACC: 1.0
+ACC: 0.95
 Confusion Matrix: 
- [[ 7  0]
- [ 0 13]] 
+ [[ 8  1]
+ [ 0 11]] 
 
-Iteração 19: Acurácia = 1.0000, Taxa de Rejeição = 0.0000
+Iteração 19: Acurácia = 0.9500, Taxa de Rejeição = 0.0500
 
 Acurácia média das 20 iterações: 1.00 ± 0.00
-Taxa de Rejeição média das 20 iterações: 0.00 ± 0.00
+Taxa de Rejeição média das 20 iterações: 0.04 ± 0.04
